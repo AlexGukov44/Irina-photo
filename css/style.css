@@ -54,6 +54,17 @@ button {
     color: white;
 }
 
+.info {
+    width: 90%;
+    justify-content: center;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: justify;
+}
 li {
     list-style-type: none;
 }
